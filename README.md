@@ -1,4 +1,4 @@
-# cuisinie_project
+# Cuisinie
 
 Machine Learning infused Culinary Companion.
 
