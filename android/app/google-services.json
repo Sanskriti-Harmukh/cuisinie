@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147931135387",
+    "project_id": "cuisinie-b1318",
+    "storage_bucket": "cuisinie-b1318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147931135387:android:064f4a1a667ce0721d353e",
+        "android_client_info": {
+          "package_name": "com.example.cuisinie_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDN05C4Dch2L3Tkq431wbfQtjOlh0C9Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
